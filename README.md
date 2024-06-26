@@ -5,3 +5,5 @@ vue-cli-admin脚手架
 生产环境在.env.production
 后端config配置跨域请求
 application配置数据库信息
+
+20240626   XXX  not ok 功能少，介绍不详
